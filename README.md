@@ -1,4 +1,21 @@
-## Live link is -->  [https://food-ordering-eta.vercel.app/]
+## Live :  (https://food-ordering-eta.vercel.app/)
+
+## Used Technologies
+
+* Reactjs | Nextjs
+* Redux Toolkit
+* Tailwind CSS
+* Expressjs | Nodejs
+* MongoDb
+
+# Images
+<img width="328" alt="Ekran görüntüsü 2023-08-03 225703" src="https://github.com/mehmetkaplanse/food-ordering/assets/87800510/66539d9a-d3ad-4537-b395-6f571768886e">
+<img width="327" alt="Ekran görüntüsü 2023-08-03 225829" src="https://github.com/mehmetkaplanse/food-ordering/assets/87800510/bf8b7d4b-3bbb-4eb2-a27f-4f62a627f75b">
+<br />
+<img width="330" alt="Ekran görüntüsü 2023-08-03 225943" src="https://github.com/mehmetkaplanse/food-ordering/assets/87800510/3c6d98d2-a0dd-405e-9af2-29d39f02175b">
+<img width="331" alt="Ekran görüntüsü 2023-08-03 230013" src="https://github.com/mehmetkaplanse/food-ordering/assets/87800510/2aede567-4a34-4c35-b45f-9e069b0d0d2f">
+<br />
+<img width="331" alt="Ekran görüntüsü 2023-08-03 230056" src="https://github.com/mehmetkaplanse/food-ordering/assets/87800510/f9cdde31-bf10-4305-a005-c2335502f588">
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
